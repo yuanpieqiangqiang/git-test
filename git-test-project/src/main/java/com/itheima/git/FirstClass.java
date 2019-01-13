@@ -10,6 +10,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         // hello test
+        System.out.println("how are you");
     }
     public void test() {
         int i = 0;
